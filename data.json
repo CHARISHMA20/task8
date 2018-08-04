@@ -1,0 +1,45 @@
+{
+  "career":{
+    "info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+  },
+  "education":[
+    {
+    "degree":"B-Tech(Computer Science & Engneering)",
+    "institute":"siddharth college of engineering",
+    "data":["2015-19","75"]
+  },
+  {
+  "degree":"intermediate(mpc)",
+  "institute":"sri sai jyothi junior collge",
+  "data":["2013-15","84"]
+},
+{
+"degree":"ssc",
+"institute":"jnana jyothi vidhya mandir",
+"data":["2012-13","95"]
+}
+],
+"skills":[
+  {
+    "title":"programming language",
+    "set":["java","c","python","c++"]
+
+},
+  {
+    "title":"web technologies",
+    "set":["html","css"]
+
+},
+  {
+    "title":"database",
+    "set":["oracle","sql"]
+
+}
+],
+"achievements":[
+  {
+    "achievedData":"got 1<super>st</super>prize in ppt presentation"
+  }
+]
+
+}

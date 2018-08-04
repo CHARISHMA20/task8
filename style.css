@@ -1,0 +1,275 @@
+.parent{
+  display: flex;
+flex-direction: row;
+justify-content: center;
+}
+.child{
+  border: 2px solid #25051e;
+  padding:2%;
+  margin: 2%;
+  box-shadow: 3px 3px 3px #ddd;
+
+}
+img
+{
+  width:200px;
+  height:200px;
+  border-radius:50%;
+  border:2px solid#25051e;
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+}
+h2,
+h3{
+    text-align: center;
+}
+.a{
+  display:block;
+  text-align: center;
+  text-decoration: none;
+  background:#25051e;
+  color:#fff;
+  padding:2%;
+}
+.leftchild{
+  width:30%;
+  border:2px solid #ddd;
+  padding:2%;
+  margin:2%;
+  text-align: center;
+}
+.rightchild{
+  width:70%;
+  border:2px solid #ddd;
+  padding:2%;
+  margin:2%;
+}
+.mail{
+  text-decoration: none;
+  font-size: 20px;
+}
+@media only screen and (min-width:320px) and (max-width:480px){
+  .parent{
+    display: flex;
+  flex-direction:column;
+  justify-content: center;
+  }
+  .child{
+    border: 2px solid #25051e;
+    padding:2%;
+    margin: 2%;
+    box-shadow: 3px 3px 3px #ddd;
+
+  }
+  img
+  {
+    width:200px;
+    height:200px;
+    border-radius:50%;
+    border:2px solid#25051e;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  h2,
+  h3{
+      text-align: center;
+  }
+  .a{
+    display:block;
+    text-align: center;
+    text-decoration: none;
+    background:#25051e;
+    color:#fff;
+    padding:2%;
+  }
+  .leftchild{
+    width:90%;
+    border:2px solid #ddd;
+    padding:2%;
+    margin:2%;
+    text-align: center;
+  }
+  .rightchild{
+    width:80%;
+    border:2px solid #ddd;
+    padding:2%;
+    margin:2%;
+  }
+  .mail{
+
+
+    text-decoration: none;
+    font-size: 20px;
+  }
+
+}
+@media only screen and (min-width:320px) and (max-width:480px){
+  .parent{
+    display: flex;
+  flex-direction:column;
+  justify-content: center;
+  }
+  .child{
+    border: 2px solid #25051e;
+    padding:2%;
+    margin: 2%;
+    box-shadow: 3px 3px 3px #ddd;
+
+  }
+  img
+  {
+    width:200px;
+    height:200px;
+    border-radius:50%;
+    border:2px solid#25051e;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  h2,
+  h3{
+      text-align: center;
+  }
+  .a{
+    display:block;
+    text-align: center;
+    text-decoration: none;
+    background:#25051e;
+    color:#fff;
+    padding:2%;
+  }
+  .leftchild{
+    width:90%;
+    border:2px solid #ddd;
+    padding:2%;
+    margin:2%;
+    text-align: center;
+  }
+  .rightchild{
+    width:80%;
+    border:2px solid #ddd;
+    padding:2%;
+    margin:2%;
+  }
+  .mail{
+
+
+    text-decoration: none;
+    font-size: 20px;
+  }
+
+}
+@media only screen and (min-width:481px) and (max-width:768px){
+  .parent{
+    display: flex;
+  flex-direction:row;
+  justify-content: center;
+  }
+  .child{
+    border: 2px solid #25051e;
+    padding:2%;
+    margin: 2%;
+    box-shadow: 3px 3px 3px #ddd;
+
+  }
+  img
+  {
+    width:200px;
+    height:200px;
+    border-radius:50%;
+    border:2px solid#25051e;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  h2,
+  h3{
+      text-align: center;
+  }
+  .a{
+    display:block;
+    text-align: center;
+    text-decoration: none;
+    background:#25051e;
+    color:#fff;
+    padding:2%;
+  }
+  .leftchild{
+    width:50%;
+    border:2px solid #ddd;
+    padding:2%;
+    margin:2%;
+    text-align: center;
+  }
+  .rightchild{
+    width:50%;
+    border:2px solid #ddd;
+    padding:2%;
+    margin:2%;
+  }
+  .mail{
+
+
+    text-decoration: none;
+    font-size: 20px;
+  }
+
+}
+@media only screen and (min-width:769px) and (max-width:102px){
+  .parent{
+    display: flex;
+  flex-direction:row;
+  justify-content: center;
+  }
+  .child{
+    border: 2px solid #25051e;
+    padding:2%;
+    margin: 2%;
+    box-shadow: 3px 3px 3px #ddd;
+
+  }
+  img
+  {
+    width:200px;
+    height:200px;
+    border-radius:50%;
+    border:2px solid#25051e;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  h2,
+  h3{
+      text-align: center;
+  }
+  .a{
+    display:block;
+    text-align: center;
+    text-decoration: none;
+    background:#25051e;
+    color:#fff;
+    padding:2%;
+  }
+  .leftchild{
+    width:40%;
+    border:2px solid #ddd;
+    padding:2%;
+    margin:2%;
+    text-align: center;
+  }
+  .rightchild{
+    width:60%;
+    border:2px solid #ddd;
+    padding:2%;
+    margin:2%;
+  }
+  .mail{
+
+
+    text-decoration: none;
+    font-size: 20px;
+  }
+
+}
